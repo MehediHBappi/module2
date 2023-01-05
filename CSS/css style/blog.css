@@ -1,0 +1,12 @@
+h3{color: brown;}
+.ff{height: 200px;
+background-image: url('../pexels-daniel-reche-1556706.jpg'); 
+;
+/* width: 400px; */
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+body{background-color: aqua;}
+ol{border:5px solid red ; list-style-type: a;}
+.color{background-color: rgb(26, 194, 115);}
